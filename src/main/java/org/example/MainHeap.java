@@ -1,3 +1,7 @@
+/**
+ * Clase MainHeap
+ * Encargada del Main implementando vector para la cola de prioridad
+ */
 package org.example;
 
 import java.io.BufferedReader;

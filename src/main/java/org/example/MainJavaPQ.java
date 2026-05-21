@@ -1,3 +1,8 @@
+/**
+ * Clase MainJavaPQ
+ * utilizando el java collection framework con PriorityQueue
+ */
+
 package org.example;
 
 import java.io.BufferedReader;

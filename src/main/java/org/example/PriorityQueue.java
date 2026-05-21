@@ -1,3 +1,7 @@
+/**
+ * Interfaz PriorityQueue
+ * extiente Comparable, es la interfaz para nuestra cola de prioridad
+ */
 package org.example;
 
 public interface PriorityQueue<E extends Comparable<E>> {

@@ -1,3 +1,6 @@
+/**
+ * VectorHeap es la clase que implementa la interfaz PriorityQueue y a su vez extiende Comparable
+ */
 package org.example;
 
 import java.util.ArrayList;
